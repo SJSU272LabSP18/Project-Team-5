@@ -9,6 +9,7 @@ TEAM MEMBERS : Sayali Pisal, Sneha Patil, Chunchen Lin, Mitesh Kumar
 
 Project title:
 Car Collision detection using machine learning
+
 Project description:
 The traffic in bay area is notoriously bad. One of the reasons is the traffic jam caused by car collisions.  Machine learning or AI has been made many things 'smart'. It would be very beneficial if we can use it to solve the car collision problem. It is actually possible to detect the possible collision and worn the drivers to take action. However, most the cars down the road does not have this function installed. It is expensive and only available to some new version of cars. We are thinking we may design and implement an affordable car collision prevention application using computer vision and machine learning method.
 Proposed methodology/resources:
@@ -18,6 +19,7 @@ One method to detect potential car collision is to track taillight. Analyzing th
 
 Project title:
 Personal health and weight watch application
+
 Project description:
 There are about 1/3 of US population overweight. One of the issues of overweight is it causes health problems, which cost a huge amount of money and decrease the quality of life. Triggering by the idea of personal medicine, we propose a personal health and weight watch app using machine learning to target people individually. Since we all unique in our gene, health, life style and habits, a program specific for each one of us would be more efficient. To reach the goal, we use machine learning to train the data that input by the user and make suggestion according to the training results. For weight watch and stay healthy, the factors can be healthy diet, exercise, and calories count.
 Proposed methodology/resources:
@@ -27,6 +29,7 @@ The most convenient form of this application is a smartphone app. There are many
 
 Project title:
 Buy/Sell Nearby 
+
 Project description:
 This project aims at designing a Website/App that helps people sell their stuff to group of people who are physically present in that area. Most of the times we upload the pictures of the things to be sold on Facebook pages. There is a gap between the buyers and sellers. Potential buyers sometimes would not have signed up as a member for the respective page. There are other websites like craigslist which show a list of things sold by others based on various filters like the area. 
 This Website/App aims at providing solution that will help the potential buyers to look for potential sellers are who are located within the fixed radius. Let's take a simple example where a person is waiting for a friend or waiting for a cab they would simply open the website or app and look for people who are selling used stuffs near them. In the same way the person can even look up for nearby yard sale that is happening. 
@@ -36,6 +39,7 @@ Proposed methodology/ resources Developing a Website or a App. Track using the l
 
 Project title:
 Project Name: Bloom and Flourish Plant Reminder 
+
 Project description:
 There is a constant need to remember small tasks to be completed on time. With the help of arduino and few lines of code you could water your plants or change the location of the plants placed in the patio. Certain plants require specific amount of sunlight like some require 4 hours of sunlight and others just require just 1 hour of sunlight. This project aims at sending reminders when the moisture of the soil falls below a certain level. Or when a plant has already been exposed to a certain amount of sunlight. You could then take the necessary action to water the plant or change the position of the pot. 
 Proposed methodology/ resources Use of Sensors, arduino or Raspberrypi as hardware and developing a simple app to read the notifications. 
