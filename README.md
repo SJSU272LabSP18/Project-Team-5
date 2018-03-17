@@ -8,7 +8,7 @@ TEAM MEMBERS : Sayali Pisal, Sneha Patil, Chunchen Lin, Mitesh Kumar
 1]	Project idea 1
 
 Project title:
-Car Collision detection using machine learning
+## Car Collision detection using machine learning  - I love this idea , go for it. 
 
 Project description:
 The traffic in bay area is notoriously bad. One of the reasons is the traffic jam caused by car collisions.  Machine learning or AI has been made many things 'smart'. It would be very beneficial if we can use it to solve the car collision problem. It is actually possible to detect the possible collision and worn the drivers to take action. However, most the cars down the road does not have this function installed. It is expensive and only available to some new version of cars. We are thinking we may design and implement an affordable car collision prevention application using computer vision and machine learning method.
