@@ -1,5 +1,7 @@
 # Project-Team-5
 
+AUTOMATIC IMAGE CAPTIONING in DEEP LEARNING USING PYTORCH
+
 PROJECT GROUP NO . 5
 TEAM MEMBERS : Sayali Pisal, Sneha Patil, Chunchen Lin
 
